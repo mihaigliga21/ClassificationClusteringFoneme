@@ -1,0 +1,6 @@
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusteringKMeans\bin\Debug\ClusteringKMeans.exe.config
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusteringKMeans\bin\Debug\ClusteringKMeans.exe
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusteringKMeans\bin\Debug\ClusteringKMeans.pdb
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusteringKMeans\obj\Debug\ClusteringKMeans.exe
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusteringKMeans\obj\Debug\ClusteringKMeans.pdb
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusteringKMeans\obj\Debug\ClusteringKMeans.csprojResolveAssemblyReference.cache

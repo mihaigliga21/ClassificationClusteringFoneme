@@ -1,0 +1,6 @@
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusterizareFoneme\bin\Debug\ClusterizareFoneme.exe.config
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusterizareFoneme\bin\Debug\ClusterizareFoneme.exe
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusterizareFoneme\bin\Debug\ClusterizareFoneme.pdb
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusterizareFoneme\obj\Debug\ClusterizareFoneme.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusterizareFoneme\obj\Debug\ClusterizareFoneme.exe
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusterizareFoneme\obj\Debug\ClusterizareFoneme.pdb

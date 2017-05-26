@@ -1,0 +1,6 @@
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusterizareFonemeKNN\bin\Debug\ClusterizareFonemeKNN.exe.config
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusterizareFonemeKNN\bin\Debug\ClusterizareFonemeKNN.exe
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusterizareFonemeKNN\bin\Debug\ClusterizareFonemeKNN.pdb
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusterizareFonemeKNN\obj\Debug\ClasificareFonemeKNN.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusterizareFonemeKNN\obj\Debug\ClusterizareFonemeKNN.exe
+C:\Users\Mihai\Google Drive\Documents\Visual Studio 2017\Projects\ClusterizareFoneme\ClusterizareFonemeKNN\obj\Debug\ClusterizareFonemeKNN.pdb
